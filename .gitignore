@@ -1,0 +1,21 @@
+# 환경 변수 / 비밀 저오
+.env
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Java / Gradle / Maven
+build/
+target/
+.gradle/
+
+# IDE
+.idea/
+.vscode/
+
+# 로그, 데이터
+*.log
+data/raw/
